@@ -1,4 +1,7 @@
-<style type="text/css">
+
+	body{
+		background:rgba(222,222,222,255) ;
+	}
 
 	h1{
 		font-family: "helvetica", Arial, sans-serif;
@@ -6,14 +9,32 @@
 		color:white;
 		font-size: 50px;
 		text-align: center;
-		text-transform:uppercase;
-	}
-	p{background:#A199AD;
+		text-transform:uppercase;}
+	
+	p{
+		background:#A199AD;
 		color:white;
 		font-size: 30px;
 		text-align: center;}
 
-	img{size:50% width;
+	img{
+		size:50% width;
 		align-content: center;}
 
-	</style>
+	/*id--overrides the class*/
+	#special {
+		font-weight: bold;
+		cursor:pointer;
+	}
+
+	/*class*/
+	.firstthree{
+		font-size:70;
+
+	}
+
+  /*when using hover, change only occurs when mouse is over it */
+	a:hover{
+		color:purple;
+
+	}
