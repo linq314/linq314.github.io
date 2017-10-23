@@ -1,0 +1,36 @@
+	body{
+		background:#A52A2A;
+	}
+
+	h1{
+		font-family: Arial, sans-serif;
+		color:#DCDCDC;
+		font-size: 40px;
+		text-align: left;
+		text-transform:uppercase;}
+
+	h2{
+		font-family: Arial, sans-serif;
+		color:#DCDCDC;
+		font-size: 20px;
+		text-align: left;	
+	}
+	
+	p{
+		color:white;
+		font-size: 16px;
+		line-height: 150%}
+
+
+	.noshow{
+		visibility:hidden;
+	}
+
+
+#active:{
+	visibility:visible;
+	}
+
+a:active {
+	visibility:visible;
+}
