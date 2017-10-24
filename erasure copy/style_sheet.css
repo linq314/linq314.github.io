@@ -23,14 +23,14 @@
 
 
 	.noshow{
-		visibility:hidden;
+		color:#A52A2A;
 	}
 
-
-#active:{
-	visibility:visible;
+	.noshow:focus{
+		color:black;
 	}
 
-a:active {
-	visibility:visible;
-}
+	.noshow:hover{
+		color:white;
+	}
+
