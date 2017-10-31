@@ -31,9 +31,17 @@ p{
 		text-align: center;
 
 	}
-a{		color:#707070;
+a {		color:#707070;
 		font-size: 15px;
 		text-align: center;
-
 }
 
+var btn = document.querySelector('button');
+}
+
+function() {
+	var color = pink;
+	document.body.style.backgroundColor=color;
+}
+
+btn.onclick = function;
