@@ -34,3 +34,32 @@
 a:active {
 	visibility:visible;
 }
+
+.wrapper{
+	width:40vw;
+	background:grey;
+	float:left;
+}
+
+.clear{
+	clear:left;
+}
+
+
+#absolute{
+	position:absolute
+	top:50px;
+	right:50px;
+}
+
+#fixed{
+	position:fixed
+	top:50px;
+	left:50px;
+}
+
+#relative{
+	position:fixed
+	top:50px;
+	left:5
+}
