@@ -1,0 +1,43 @@
+body{
+		background:#fffff7;
+	}
+
+h1 {
+	color:#cc0000;
+	font: "Trebuchet MS", "Comic Sans MS", Helvetica, sans-serif;
+	font-size: 20;
+}
+
+p {
+	color: #ff7f7f;
+	font: "Trebuchet MS", "Comic Sans MS", Helvetica, sans-serif;
+	font-size: 15;
+}
+
+select {
+	background:#ff7f7f;
+	border-color:#990000;
+	color:#fffff7;
+	font: "Trebuchet MS", "Comic Sans MS", Helvetica, sans-serif;
+	font-size:15;
+}
+
+
+input {
+	background:#cc0000;
+	border-color:#fffff7;
+	color:#fffff7;
+	font: "Trebuchet MS", "Comic Sans MS", Helvetica, sans-serif;
+	font-size: 15;
+
+}
+
+img {
+	width: 12%;
+}
+
+#answer{
+	color:#cc0000;
+	size:70%;
+  
+} 
